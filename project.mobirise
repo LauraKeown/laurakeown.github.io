@@ -33,7 +33,10 @@
     "siteFonts": [],
     "uniqCompNum": 4,
     "versionPublish": "4.8.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126943697-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126943697-1');\r\n</script>\r\n\r\n<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='d05d9b9b90b8534bf9d36c386f8e7ab08b6dfe4929d3fbe390e1b79ed5bc892f';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>"
   },
   "pages": {
     "index.html": {
